@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin:0;
     padding:0;
@@ -89,4 +90,94 @@ h2{
     color:#C0392B;
     font-weight: bold;
     margin:10px;
+=======
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+
+}
+header{
+    height:62px;
+    width:1920px;
+    background-color: #C0392B;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    padding:10px 200px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    height:20px;
+    font-size: 16px;
+    margin:10px;
+}
+.ss1{
+    width:1920px;
+    height:489px;
+    display: flex;
+    justify-content: space-around;
+    padding:50px;
+    margin:0px;
+}
+.ss1 img{
+    width:475px;
+    height:365px;
+}
+.ss1 div{
+    margin-right:50px;
+}
+h1{
+    width:440px;
+    height: 85px;
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+.pho p{
+    font-size: 16px;
+    width:345px;
+    height:53px;
+
+}
+footer{
+  background-color: black;
+  color:white;
+  height:78px;
+  text-align: center;
+  padding:20px;
+  margin-top:20px;
+}
+h2{
+    text-align: center;
+    margin:30px;
+    color: #C0392B;
+    font-size: 24px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.dishes{
+    width:300px;
+    height:280px;
+    background-color: #fff9f5;
+    gap:50px;
+
+}
+.menu h3{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top:20px;
+
+}
+.menu p{
+    color:#C0392B;
+    font-weight: bold;
+    margin:10px;
+>>>>>>> eae94f5c102f2fe5fcc0d77ff8f75dfa17431048
 }
